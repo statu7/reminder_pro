@@ -1,4 +1,4 @@
-import {ADD_REMINDER} from '../constants';
+import { ADD_REMINDER } from '../constants';
 
 const reminder = (action) => {
     return {
